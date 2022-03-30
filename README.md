@@ -5,7 +5,7 @@
 ## 安装
 
 ```
-npm i tools-fn
+npm i tools-fn --save
 ```
 
 ## 主要模块
